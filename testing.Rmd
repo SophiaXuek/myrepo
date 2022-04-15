@@ -1,6 +1,9 @@
+foo.Rmd --> foo.md --> foo.html
 ---
-title: "Hello"
-output: html_document
+title: "Something fascinating"
+author: "Sophia Xue"
+date: "2022-04-12"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
